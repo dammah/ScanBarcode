@@ -52,9 +52,9 @@
 				}
 </style>
 
-	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
-	<script type="text/javascript" src="qr-js/llqrcode.js"></script>
-	<script type="text/javascript" src="qr-js/webqr.js"></script>
+	<link href="bootstrap.min.css" rel="stylesheet">
+	<script type="text/javascript" src="llqrcode.js"></script>
+	<script type="text/javascript" src="webqr.js"></script>
 
 <div class="container">
     <div class="page-section">
